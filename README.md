@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-## 👋 About Me<br><br>🎓 I'm a first-year Computer and Communication Engineering student.<br>🚀 My goal is to build technology, solve real-world problems, and eventually start my own tech startup.<br>💻 Currently learning C and Python while building my programming fundamentals.<br>🧠 Exploring AI/ML, software development, DSA and emerging technologies.<br>🏗️ Interested in turning ideas into useful products and projects.<br>🤝 Open to collaborating on innovative projects and hackathons.<br>⚡ Fun fact: I'm not just learning to code — I'm learning to build.
+## 👋 About Me<br><br>🎓 I'm a first-year Computer and Communication Engineering student.<br>🚀 My goal is to build technology, solve real-world problems, and eventually start my own tech startup.<br>💻 Currently learning C and Python while building my programming fundamentals.<br>🧠 Exploring AI/ML, software development, DSA and emerging technologies.<br>🏗️ Interested in turning ideas into useful products and projects.<br>🤝 Open to collaborating on innovative projects and hackathons.<br>.
 
 
 ## 🌐 Socials:
